@@ -1,6 +1,6 @@
 using System;
 
-namespace Panel_Bundling
+namespace Bundle
 {
     class Program
     {
