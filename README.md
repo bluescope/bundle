@@ -1,4 +1,4 @@
 bundle
 ======
 
-let's create some bundles
+This is only a proof-of-concept demonstration. 
